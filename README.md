@@ -10,7 +10,7 @@
 
 -----
 
-### <p align="center">👀 &nbsp;Visiteurs</p>
+### <p align="center">👀 &nbsp;Visitors</p>
 <br>
 <p align="center">
   <img src="https://profile-counter.glitch.me/alphalius/count.svg" />
